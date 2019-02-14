@@ -1,0 +1,56 @@
+Bastani, Farokh B.   Professor   bastani@utdallas.edu   2299   
+Bereg, Sergey   Associate Professor   besp@utdallas.edu   2364   
+Cardenas, Alvaro   Assistant Professor   alvaro.cardenas@utdallas.edu   4537   
+Chandrasekaran, R.   Professor   chandra@utdallas.edu   2032   
+Chung, Lawrence   Associate Professor   chung@utdallas.edu   2178   
+Cobb, Jorge A.   Associate Professor   jcobb@utdallas.edu   2479   
+Daescu, Ovidiu   Professor   ovidiu.daescu@utdallas.edu   4196   
+Dawande, Milind   Ashbel Smith Professor   milind@utdallas.edu   2793   
+Desmedt, Yvo   Jonsson Distinguished Professor   Yvo.Desmedt@utdallas.edu   4536   
+Du, Ding-Zhu   Professor   dzdu@utdallas.edu   6615   
+Farago, Andras   Professor   farago@utdallas.edu   6885   
+Fishwick, Paul   Professor   paul.fishwick@utdallas.edu   4389   
+Fox, Kyle   Assistant Professor   kyle.fox@utdallas.edu   4168   
+Gogate, Vibhav   Assosicate Professor   vibhav.gogate@utdallas.edu   4245   
+Guo, Xiaohu   Associate Professor   xguo@utdallas.edu   4723   
+Gupta, Gopal   Professor   gupta@utdallas.edu   4107   
+Haas, Zygmunt   Professor   haas@utdallas.edu   3571   
+Hamlen, Kevin   Associate Professor   4724   
+Hao, Shuang   Assistant Professor   shao@utdallas.edu   4164   
+Harabagiu, Sanda   Professor   sanda@utdallas.edu   4654   
+Huynh, D.T.   Professor   huynh@utdallas.edu   2169   6810   
+Jue, Jason   Professor   jjue@utdallas.edu   4429   
+Kantarcioglu, Murat   Professor   muratk@utdallas.edu   6616   
+Khan, Latifur   Professor   lkhan@utdallas.edu   4137   
+Kunapuli, Gautam   Research Associate Professor   gautam.kunapuli@utdallas.edu   4212   
+Liu, Cong   Assistant Professor   cong.liu@utdallas.edu   3572   
+Liu, Yang   Associate Professor   yangl@hlt.utdallas.edu   6618   
+Marcus, Andrian   Professor   axm141731@utdallas.edu   4246   
+McMahan, Ryan   Assistant Professor   rymcmaha@utdallas.edu   6610   
+Mittal, Neeraj   Associate Professor   neerajm@utdallas.edu   2347   
+Moldovan, Dan   Professor   dan.moldovan@utdallas.edu   4838   
+Natarajan,Sriraam   Associate Professor   Sriraam.Natarajan@utdallas.edu   4163   
+Ng, Vincent   Professor   vince@hlt.utdallas.edu   4581   
+Nguyen, Tien   Associate Professor   tien.n.nguyen@utdallas.edu   3893   
+Ntafos, Simeon   Professor   ntafos@utdallas.edu   2809   
+Page, Ivor P.   Professor   ivor.page@utdallas.edu   2160   
+Pervin, William   Professor   pervin@utdallas.edu   
+Prabhakaran, B.   Professor   praba@utdallas.edu   4680   
+Prakash, Ravi   Professor   ravip@utdallas.edu   2289   
+Raghavachari, Balaji   Professor   rbk@utdallas.edu   2136   
+Raichel, Benjamin   Assistant Professor   benjamin.raichel@utdallas.edu   4193   
+Ruozzi, Nicholas   Assistant Professor   nicholas.ruozzi@utdallas.edu   4918   
+Sarac, Kamil   Associate Professor   ksarac@utdallas.edu   2337   
+Schweitzer, Haim   Associate Professor   haim@utdallas.edu   2238   
+Sudborough, I Hal   Founders Professor   hal@utdallas.edu   2184   
+Thuraisingham, Bhavani   Louis A. Beecherl Jr. Distinguished Professor   bhavani.thuraisingham@utdallas.edu   4738   
+Truemper, Klaus   Professor   klaus.truemper@utdallas.edu   2712   
+Venkatesan, S.   Professor   subbarayan.venkatesan@utdallas.edu   2452   
+Wei, Shiyi   Assistant Professor   swei@utdallas.edu   4167   
+Wong, W. Eric   Professor   ewong@utdallas.edu   6619   
+Wu, Weili   Professor   weiliwu@utdallas.edu   2194   
+Yen, I-Ling   Professor   ilyen@utdallas.edu   6446   
+Zalila-Wenkstern, Rym   Associate Professor   rymw@utdallas.edu   2091   
+Zhang, Kang   Professor   kzhang@utdallas.edu   6351   
+Zhang, Lingming   Assistant Professor   lxz144130@utdallas.edu   3573   
+Zheng, S. Q.   Professor   sizheng@utdallas.edu   2329   
